@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1491502726 source:i:\code block\dslab\lab\untitled1.c
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1491760139 source:i:\code block\dslab\lab\lab.cpp
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+
